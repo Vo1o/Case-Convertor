@@ -1,0 +1,13 @@
+button {
+    background-color: sandybrown;
+    border: 1px solid sandybrown;
+    padding: 5px;
+    color: white;
+    font-family: Gill Sans, sans-serif;
+}
+
+button:hover{
+    border: 1px solid saddlebrown;
+    color: antiquewhite;
+    background: saddlebrown;
+}
